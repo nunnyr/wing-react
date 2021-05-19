@@ -6,8 +6,8 @@ const App = () => {
   const [tasks, setTasks] = useState([
     {
         id: 1,
-        text: 'Week of Action MTR',
-        day: 'May 16th at 9:00am',
+        text: 'Cuddle with Nunny',
+        day: 'right now',
         reminder: false
 
     },
@@ -19,14 +19,14 @@ const App = () => {
     },
     {
         id: 3,
-        text: 'Reminder to ft Nunny 🌸',
-        day: 'tbd',
+        text: 'Spend time with Nunny 🌸',
+        day: 'everyday? haha unless...',
         reminder: false
     },
     {
         id: 4,
         text: 'Plan Arrebato event',
-        day: 'June/July',
+        day: 'June/July, venue tbd',
         reminder: false
     },
     {
