@@ -6,8 +6,8 @@ const App = () => {
   const [tasks, setTasks] = useState([
     {
         id: 1,
-        text: 'Cuddle with Nunny',
-        day: 'right now',
+        text: 'Week of Action event',
+        day: 'May 17th',
         reminder: false
 
     },
